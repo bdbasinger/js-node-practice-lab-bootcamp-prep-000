@@ -1,7 +1,7 @@
 // write your code below!
 
-var name = "Joe"
-var height = 74
+var name = "Brennan"
+var height = 76
 
 
 // If we had to convert a string to an int
